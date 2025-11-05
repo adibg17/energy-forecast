@@ -1,0 +1,19 @@
+{
+  "hour": 14,
+  "dayofweek": 2,
+  "is_weekend": 0,
+  "gap_mean_lag_1": 1.0,
+  "gap_max_lag_1": 2.0,
+  "gap_mean_lag_2": 0.9,
+  "gap_max_lag_2": 1.8,
+  "gap_mean_lag_3": 0.8,
+  "gap_max_lag_3": 1.6,
+  "gap_mean_lag_6": 0.7,
+  "gap_max_lag_6": 1.4,
+  "gap_mean_lag_12": 0.6,
+  "gap_max_lag_12": 1.2,
+  "gap_mean_lag_24": 0.5,
+  "gap_max_lag_24": 1.1,
+  "rolling_3h_max": 1.9,
+  "rolling_24h_mean": 0.75
+}
